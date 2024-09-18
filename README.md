@@ -11,7 +11,7 @@ Space Invaders is one of the earliest shooting games. The objective is to defeat
 
 ### Download & Run the Game
 
-To play the game, [download the JAR file here](your-link-here).  
+To play the game, [download the JAR file here](SpaceInvaders.jar).  
 Once downloaded, open a terminal or command prompt and run the following command to start the game:
 
 ```bash
